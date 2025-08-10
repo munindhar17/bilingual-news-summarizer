@@ -1,0 +1,7 @@
+streamlit
+nltk
+numpy
+networkx
+indic-nlp-library
+scikit-learn
+googletrans==4.0.0-rc1
